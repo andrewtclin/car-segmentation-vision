@@ -1,0 +1,5 @@
+.git/
+.ipynb_checkpoints/
+data/
+**/__pycache__/
+models/
