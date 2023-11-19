@@ -1,0 +1,6 @@
+path: D:\Personal\Projects\images\computer-vision\duck-segmentation # data path
+train: images/train
+val: images/val
+
+nc: 1 # number of classes
+names: ['duck'] # lass label
