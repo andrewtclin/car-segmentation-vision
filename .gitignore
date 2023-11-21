@@ -6,3 +6,4 @@ models/
 *.pt
 *.pth
 *.yaml
+runs/
