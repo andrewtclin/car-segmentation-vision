@@ -1,6 +1,0 @@
-path: /content/gdrive/MyDrive/Personal/Projects/computer-vision/duck-segmentation/data
-train: images/train
-val: images/val
-
-nc: 1 # number of classes
-names: ['duck'] # lass label
