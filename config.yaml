@@ -1,4 +1,4 @@
-path: D:\Personal\Projects\images\computer-vision\duck-segmentation # data path
+path: ./temp # data path
 train: images/train
 val: images/val
 
