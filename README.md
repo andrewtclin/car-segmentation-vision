@@ -2,7 +2,7 @@
 
 ### Demo
 
-- Demo showcasing Duck Segmentation:
+- Demo showcasing duck segmentation:
   - [Duck Segmentation](https://github.com/andrewtclin/duck-segmentation-vision/blob/master/duck-segmentation.ipynb)
 
 ### Overview
