@@ -7,7 +7,7 @@
 
 ### Overview
 
-- Duck Segmentation is a computer vision image segmentation that implements YOLOv8 and custom-trained image data to segment ducks from images.
+- Duck Segmentation implements YOLOv8 and custom-trained image data to segment ducks from images.
 
 - It goes from self-annotating to building a custom-trained model.
 
