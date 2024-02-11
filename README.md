@@ -7,7 +7,7 @@
 
 ### Overview
 
-- Duck Segmentation implements YOLOv8 and custom-trained image data to segment ducks from images.
+- Duck Segmentation implements YOLOv8 and fine-tuned on custom-trained image data to segment ducks from images.
 
 - Goes from self-annotating to building a custom-trained model.
 
