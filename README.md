@@ -15,7 +15,7 @@
 
 ### Example prediction
 
-- Original image
+- Original input image
 
 <img src="output/original_img.png" alt="Alt Text" width="400" height="auto">
 
